@@ -1,0 +1,20 @@
+[Added Associations]
+application/toml=vim.desktop;
+application/vnd.openxmlformats-officedocument.wordprocessingml.document=onlyoffice-desktopeditors.desktop;com.google.Chrome.desktop;gimp.desktop;
+application/pdf=gimp.desktop;
+
+[Default Applications]
+application/vnd.openxmlformats-officedocument.wordprocessingml.document=onlyoffice-desktopeditors.desktop
+text/html=app.zen_browser.zen.desktop
+x-scheme-handler/about=app.zen_browser.zen.desktop
+x-scheme-handler/unknown=google-chrome.desktop
+application/json=app.zen_browser.zen.desktop;
+application/pdf=app.zen_browser.zen.desktop;
+application/x-xpinstall=app.zen_browser.zen.desktop;
+application/xhtml+xml=app.zen_browser.zen.desktop;
+text/html=app.zen_browser.zen.desktop;
+text/xml=app.zen_browser.zen.desktop;
+x-scheme-handler/http=app.zen_browser.zen.desktop;
+x-scheme-handler/https=app.zen_browser.zen.desktop;
+x-scheme-handler/zoommtg=Zoom.desktop
+x-scheme-handler/discord-1296840202995896363=discord-1296840202995896363.desktop

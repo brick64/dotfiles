@@ -1,0 +1,7 @@
+{
+	"version": "0.0.24",
+  "pkg_update": false,
+	"changelog": [
+    "<b>fix:</b> Audio Mixer max characters."
+	]
+}
