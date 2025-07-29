@@ -1,7 +1,7 @@
 {
-	"version": "0.0.24",
-  "pkg_update": false,
+	"version": "0.0.28", 
+  "pkg_update": true,
 	"changelog": [
-    "<b>fix:</b> Audio Mixer max characters."
-	]
+    "<b>fix:</b> Implemented latest Fabric WM/Compositor specific widgets."
+  ]
 }
