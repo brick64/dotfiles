@@ -1,7 +1,0 @@
-{
-	"version": "0.0.28", 
-  "pkg_update": true,
-	"changelog": [
-    "<b>fix:</b> Implemented latest Fabric WM/Compositor specific widgets."
-  ]
-}
